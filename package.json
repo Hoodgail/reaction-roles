@@ -1,0 +1,23 @@
+{
+  "name": "reaction_roles_bot",
+  "version": "1.0.0",
+  "description": "Reaction roles bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Sid",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.12.1",
+    "ms": "^2.1.3",
+    "uuid": "^8.3.2"
+  }
+}
