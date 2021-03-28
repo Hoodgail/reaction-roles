@@ -45,7 +45,7 @@ var uuid = require("uuid");
 
         const reRunEmbed = new Discord.MessageEmbed()
         .setTitle('Error')
-        .setDescription('Please re-run the command. Error: \n  ```An duplicate object ID was generated.```')
+        .setDescription('Please re-run the command. Error: \n  ```A duplicate object ID was generated.```')
         .setFooter('School Simplified (c) 2021')
         
 
